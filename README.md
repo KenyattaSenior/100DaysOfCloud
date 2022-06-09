@@ -2,16 +2,10 @@
   <img src="banner.png">
 </p>
 
-
-- Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-- Update your main README to link back to your Day Journey article
-- If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-
-
-
 ## Yatta's Cloud Journey
 
-Cloud is the thing to be in at this point in time. I want to fully understand this technolgy that has taken over the world. 
+Cloud is the thing to be in at this point in time. 
+I want to fully understand this technolgy that has taken over the world. 
 
 At the end of this challange I should have a better understanding of
 - [@Yatta](https://twitter.com/Yatta)
